@@ -1,0 +1,6 @@
+C:\Users\Magnu\Desktop\toll-calculator-master\obj\x86\Debug\MagnusTollCalculator.csprojAssemblyReference.cache
+C:\Users\Magnu\Desktop\toll-calculator-master\obj\x86\Debug\MagnusTollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Magnu\Desktop\toll-calculator-master\bin\Debug\ConsoleApplication.exe
+C:\Users\Magnu\Desktop\toll-calculator-master\bin\Debug\ConsoleApplication.pdb
+C:\Users\Magnu\Desktop\toll-calculator-master\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Magnu\Desktop\toll-calculator-master\obj\x86\Debug\ConsoleApplication.pdb
